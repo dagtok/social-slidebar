@@ -1,0 +1,50 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"kiOs9cZLH2FUp6r6KJ8eyq_LIOk/CMYJg87eX0eG9O76zqmQKD2B0io\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"kiOs9cZLH2FUp6r6KJ8eyq_LIOk/AM4oHb2hRiVdNzIQQRHE8mQem4c\"",
+   "id": "VVVtbUthd19uMEJJcUhxdUpGUkQzY2JRLkhROUl1Vm92Zi1J",
+   "snippet": {
+    "publishedAt": "2012-06-17T16:03:51.000Z",
+    "channelId": "UCmmKaw_n0BIqHquJFRD3cbQ",
+    "title": "[Explora Modelo] - Propuesta MUVIDE",
+    "description": "Este video muestra de forma resumida la funcionalidad de la propuesta con nombre \"MUVIDE\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HQ9IuVovf-I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HQ9IuVovf-I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HQ9IuVovf-I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HQ9IuVovf-I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Daniel Gutierrez",
+    "playlistId": "UUmmKaw_n0BIqHquJFRD3cbQ",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HQ9IuVovf-I"
+    }
+   }
+  }
+ ]
+}

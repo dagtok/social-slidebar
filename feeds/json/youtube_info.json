@@ -1,0 +1,141 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"rFqCJSkEICLP3Hq6a4AADI7kf48/c1s44DEfwpG_0R3bg2EspHF4Tb4\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "\"rFqCJSkEICLP3Hq6a4AADI7kf48/2wLUO0CzZ1eMN6z8a6bb9CChH8Q\"",
+   "id": "UCGRtuAmEObNSmlOLDWzZfVg",
+   "snippet": {
+    "title": "CaELi",
+    "description": "SIGUEME POR AQUI!!! =)",
+    "publishedAt": "2010-09-22T15:51:25.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/i/GRtuAmEObNSmlOLDWzZfVg/1.jpg"
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/i/GRtuAmEObNSmlOLDWzZfVg/mq1.jpg"
+     },
+     "high": {
+      "url": "https://i.ytimg.com/i/GRtuAmEObNSmlOLDWzZfVg/hq1.jpg"
+     }
+    }
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "likes": "LLGRtuAmEObNSmlOLDWzZfVg",
+     "favorites": "FLGRtuAmEObNSmlOLDWzZfVg",
+     "uploads": "UUGRtuAmEObNSmlOLDWzZfVg"
+    }
+   },
+   "statistics": {
+    "viewCount": "14221073",
+    "commentCount": "13331",
+    "subscriberCount": "2473714",
+    "videoCount": "136"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/04rh6b"
+    ]
+   },
+   "brandingSettings": {
+    "channel": {
+     "title": "CaELi",
+     "description": "SIGUEME POR AQUI!!! =)",
+     "keywords": "Caelike Caeli juanxita mimimimiercoles Videovlog Comedia",
+     "defaultTab": "Featured",
+     "showRelatedChannels": true,
+     "showBrowseView": true,
+     "featuredChannelsTitle": "MI RECOMENDACION!!!",
+     "featuredChannelsUrls": [
+      "UCdkj-kr32vBcB0GhupE173Q",
+      "UCzVIrPfZBE-XkBISBybMBLA",
+      "UCBNs31xysxpAGMheg8OrngA",
+      "UCG8xW9RS7d_6AQigNkHPkSA",
+      "UCaT1KfX0WvP5cfZYjy7Zscw",
+      "UC0NcdnPsfFSfmoGIno37nWQ",
+      "UCJO29znqNypUBIp4kj7pEsA"
+     ],
+     "unsubscribedTrailer": "95FH82kTxqI",
+     "profileColor": "#000000"
+    },
+    "image": {
+     "bannerImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_banner.jpg?v=515f4d76",
+     "bannerMobileImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_mobile_banner.jpg?v=515f4d76",
+     "backgroundImageUrl": {
+      "default": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels3_background.jpg?v=4f397b18"
+     },
+     "bannerTabletLowImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_tablet_banner_low.jpg?v=515f4d76",
+     "bannerTabletImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_tablet_banner.jpg?v=515f4d76",
+     "bannerTabletHdImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_tablet_banner_hd.jpg?v=515f4d76",
+     "bannerTabletExtraHdImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_tablet_banner_extra_hd.jpg?v=515f4d76",
+     "bannerMobileLowImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_mobile_banner_low.jpg?v=515f4d76",
+     "bannerMobileMediumHdImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_mobile_banner_medium_hd.jpg?v=515f4d76",
+     "bannerMobileHdImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_mobile_banner_hd.jpg?v=515f4d76",
+     "bannerMobileExtraHdImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_mobile_banner_extra_hd.jpg?v=515f4d76",
+     "bannerTvImageUrl": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_tv_banner.jpg?v=515f4d76"
+    },
+    "hints": [
+     {
+      "property": "channel.featured_channels_module2.title.string",
+      "value": "None"
+     },
+     {
+      "property": "channel.featured_tab.template.string",
+      "value": "Blogger"
+     },
+     {
+      "property": "channel.banner.image_height.int",
+      "value": "150"
+     },
+     {
+      "property": "channel.featured_channels_module1.title.string",
+      "value": "MI RECOMENDACION!!!"
+     },
+     {
+      "property": "channel.banner.image.imap_script",
+      "value": "http://www.facebook.com/#!/pages/CaELiKe/128420773892116"
+     },
+     {
+      "property": "channel.featured_video_module.playlist_id.string",
+      "value": "UUGRtuAmEObNSmlOLDWzZfVg"
+     },
+     {
+      "property": "channel.featured_playlists_module.playlist_id.list",
+      "value": "UUGRtuAmEObNSmlOLDWzZfVg, PL04C341A94BDA906C"
+     },
+     {
+      "property": "channel.feed_tab.is_default_for_subscribers.bool",
+      "value": "True"
+     },
+     {
+      "property": "channel.banner.mobile.medium.image.url",
+      "value": "http://i1.ytimg.com/u/GRtuAmEObNSmlOLDWzZfVg/channels4_mobile_banner.jpg?v=515f4d76"
+     },
+     {
+      "property": "channel.featured_playlists_module.title.string",
+      "value": "MAS VIDEOS DE MI CANAL!!"
+     },
+     {
+      "property": "channel.featured_playlist_module.playlist_id.string",
+      "value": "UUGRtuAmEObNSmlOLDWzZfVg"
+     },
+     {
+      "property": "channel.modules.show_comments.bool",
+      "value": "True"
+     },
+     {
+      "property": "channel.featured_channels_module1.channel_name.list",
+      "value": "UCdkj-kr32vBcB0GhupE173Q"
+     }
+    ]
+   }
+  }
+ ]
+}

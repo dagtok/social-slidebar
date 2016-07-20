@@ -1,0 +1,1561 @@
+.profile-header-inner-overlay {
+  position: absolute;
+  width: 300px;
+  height: 161px;
+  top: 0px;
+  background: -moz-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,transparent),color-stop(90%,rgba(0, 0, 0, 0.40)));
+  background: -webkit-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+  background: -o-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+  background: -ms-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+  background: linear-gradient(to bottom,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#66000000',GradientType=0);
+}
+
+.social_sprite{
+    background:url("../imgs/social_sprite.png") top left no-repeat; display: inline-block; text-indent: -999px;
+    background-repeat: no-repeat;
+    background-size: auto auto auto auto;
+    display: inline-block;
+    outline: medium none;
+    overflow: hidden;
+    white-space: nowrap;    
+}
+.play_control{ width:71px; height:71px; background-position:-10px -10px; }
+.facebook_logo{ width:91px; height:21px; background-position:-10px -91px; }
+.twitter_logo{ width:91px; height:20px; background-position:-10px -212px; }
+.youtube_logo{ width:91px; height:39px; background-position:-10px -262px; }
+.flickr_logo{ width:91px; height:22px; background-position:-10px -432px; }
+.instagram_logo{ width:91px; height:24px; background-position:-10px -380px; }
+.tumblr_logo{ width:91px; height:21px; background-position:-10px -326px; }
+.vimeo_logo{ width:91px; height:27px; background-position:-10px -300px; }
+.googlePlus_logo{ width:91px; height:28px; background-position:-10px -404px; }
+
+.youtube{ width:20px; height:20px; background-position:-10px -122px; }
+.flickr{ width:20px; height:20px; background-position:-40px -122px; }
+.instagram{ width:20px; height:20px; background-position:-10px -152px; }
+.tumblr{ width:20px; height:20px; background-position:-40px -152px; }
+.vimeo{ width:20px; height:20px; background-position:-70px -152px; }
+.googlePlus{ width:20px; height:20px; background-position:-10px -182px; }
+
+.social_networks{ width:20px; height:20px; background-position:-40px -182px; }
+.twitter{ width:20px; height:20px; background-position:-70px -182px; }
+.facebook{ width:20px; height:20px; background-position:-10px -242px; }
+
+a.social_sprite{
+  margin-left: 16px;
+  margin-bottom: 3px;
+}
+
+.social_sprite.social_networks {
+  margin: 10px auto;
+}
+
+span.profile-field {
+  color: white;
+  text-shadow: 1px 1px 3px black;
+}
+
+.social_sprite.facebook_logo {
+  margin-top: 6px;
+}
+
+a#switch>span{
+    -webkit-transition: all 0.8s ease;
+    -moz-transition:all 0.8s ease-in-out; 
+    -o-transition:all 0.8s ease-in-out; 
+    -ms-transition:all 0.8s 
+    ease-in-out; 
+    transition:all 0.8s ease-in-out;
+}
+a:hover#switch > span {
+  opacity: .5;
+}
+
+/*Navigation*/
+nav#kiibal_slidebar a { text-decoration: none; }
+
+nav#kiibal_slidebar ol, ul {
+	list-style: none;
+}
+
+nav#kiibal_slidebar>ul {
+	top:0%;
+  left: 0px;
+	padding-left: 0px;
+	position:fixed;	
+	display:block;
+  z-index: 10000000;
+  list-style: none;
+}
+
+nav#kiibal_slidebar ul li {
+	position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+nav#kiibal_slidebar ul li:hover > ul {
+	opacity: 1;
+}
+nav#kiibal_slidebar>ul>li,nav#kiibal_slidebar>ul,nav#kiibal_slidebar>ul>li>ul>li,nav#kiibal_slidebar>ul>li>ul,div#panel>.nano ul,div#panel>.nano ul>li {
+  padding: 0px;
+  margin: 0px;
+}
+nav#kiibal_slidebar ul li a {
+	background-color: #7CB9E8;
+	color: #535152;
+	display: block;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	width: 50px;
+	box-shadow: 0px 3px 10px #333;
+}
+
+
+nav#kiibal_slidebar ul li a:hover {
+	color: #373634;	
+}
+
+nav#kiibal_slidebar ul li ul {
+  display: block;
+  left: 0px;
+  position: absolute;
+  top: -1;
+  opacity: 0;
+  transition: opacity .8s;
+  -o-transition: opacity .8s;
+  -moz-transition: opacity .8s;
+  -webkit-transition: opacity .8s;
+}
+
+nav#kiibal_slidebar ul li ul li {
+	float: left;
+	margin-top: 0;
+}
+
+nav#kiibal_slidebar ul li ul li a {
+	background-color: #FFF;
+	color: #dddddd;
+	position: relative;	 
+}
+
+
+nav#kiibal_slidebar ul li ul li a:after {
+	display: none; 
+}
+
+/*Slidebar*/
+#lights{
+	cursor: crosshair;
+}
+
+#panel {
+	color: white;	
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	width: 300px;
+	height: 100%;
+	padding: 10px;
+	position: fixed;
+ 	top: 42px;
+ 	left: -300px;
+ 	margin: 0px;
+	padding: 0px;
+}
+
+
+#panel>ul{
+	width: 100%;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#switch {
+	background-color: #00ACEE;
+	position: fixed;
+ 	padding: 3px 0px;
+ 	top: 0;
+ 	left: 0px;
+ 	cursor: pointer;
+ 	font-size: 18px;
+ 	width: 300px;
+ 	color: white;
+}
+
+.nano {
+	width: 300px;	
+}
+
+/* ESTILO PARA TWITTER */
+  div#twitter.nano{
+    background-color: #242424;  
+  }
+  div#twitter.nano>div.nano-content>ul.tweets{
+    /*padding-bottom: 28px;*/
+    margin: 0;
+    padding: 0;
+  }
+
+  div#twitter.nano>div.nano-content>ul.tweets>li>img.avatar{
+    float: left;
+    border: 3px solid #333;
+    margin-right: 6px;
+  }
+
+  div#twitter.nano>div.nano-content>ul.tweets>li{
+    border-bottom: 1px solid #0F0F0F;
+    border-top: 1px solid #313131;
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 14px;
+    margin: 0px auto;
+    font-size: 12px;
+    text-align: center;
+    color: #C8C8C8;
+    text-shadow: 1px 1px 3px #000;
+    min-height: 45px;
+    width: 90%;
+  }
+  div#twitter.nano>div.nano-content>ul.tweets>li:hover{
+  	background-color: #1B2B30;
+  	color: #D7D7D7;
+  }
+
+  div#twitter.nano>div.nano-content>ul.tweets>li>a{
+  	color: #00ACEE;
+  	text-decoration: none;
+  }
+  #twitter.nano>div.nano-content>ul.tweets>li>p{
+    margin: 0;
+    text-align: left;
+    min-height: 25px;
+    font-size: 13px;
+    clear: right;
+  }
+  div#twitter.nano>div.nano-content>ul.tweets>li>p>a{
+    text-decoration: none;
+  }
+  div#twitter.nano>div.nano-content>ul.tweets>li>p>a:hover{
+    color: #00ACEE;
+  }
+  div#twitter.nano > div.nano-content > ul.tweets > li > a {
+    color: white;
+    font-size: 14px;
+    display: block;
+    text-align: left;
+    padding-bottom: 6px;
+    float: left;
+    padding: 5px;
+    clear: right;
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner {
+  	background-position: center;
+  	background-color: #444;
+  	height: 180px;
+  	padding: 0;
+  	text-align: center;
+  	overflow: hidden;
+  	background-repeat: no-repeat;
+  	-webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+  	box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>a.profile-picture {
+  float: none;
+  position: relative;
+  margin: 20px auto 13px;
+  display: block;
+  width: 73px;
+  height: 73px;
+  border: 4px solid #fff;
+  background-color: #fff;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.25);
+  box-shadow: 0 1px 1px rgba(0,0,0,.25);
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner {
+  width: 90%;
+  text-shadow: 0 1px 1px rgba(0,0,0,.5);
+  margin: auto;
+  float: none;
+  position: relative;
+  color: white;
+  }
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>a{
+  	text-decoration: none;
+  	color: white;
+  	text-shadow: 1px 1px 1px gray;
+  }
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>p.location-and-url>a{
+  text-decoration: none;
+  color: #DFDFDF;
+  }
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>h1.fullname {
+  font-size: 20px;
+  white-space: nowrap;
+  }
+  div#twitter.nano > div.nano-content > div.profile-card > div.profile-header-inner > div.profile-card-inner > h1.fullname > a.profile-field {
+    color: white;
+    text-decoration: none;
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>h2.username>a.screen-name {
+  margin-bottom: 1px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  }
+  div#twitter.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>h2.username>a.screen-name>s{
+    color: white;
+  	text-decoration: none;
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-banner-footer.clearfix {
+  clear: both;
+  padding-bottom: 6px;
+  float: left;
+  }
+
+  /*profile stats*/
+  div#twitter.nano>div.nano-content>div.profile-banner-footer.clearfix>.default-footer>ul.stats {
+  background-color: #FFF;
+  margin: auto;
+  float: left;
+  width: 300px;
+  }
+  div#twitter.nano>div.nano-content>div.profile-banner-footer.clearfix>.default-footer>ul.stats > li {
+  display: inline;
+  width: 100%;
+  margin: auto;
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-banner-footer.clearfix>.default-footer>ul.stats > li > a {
+  text-decoration: none;
+  font-size: 12px;
+  float: left;
+  padding: 10px 10px 8px 10px;
+  border-left: 1px solid #e8e8e8;
+  border-top: 0;
+  }
+
+  div#twitter.nano>div.nano-content>div.profile-banner-footer.clearfix>.default-footer>ul.stats > li > a {
+  color: #242424;
+  text-decoration: none;
+  text-shadow: 0px 0px 0px white;
+  width: 79px;
+  }
+/* ESTILO PARA TWITTER */
+
+/* ESTILO PARA FACEBOOK*/
+  #facebook.nano>div.nano-content>div.profile-card>div.profile-header-inner>a.profile-picture>img {
+      -webkit-border-radius: 50%;
+      border-radius: 50%;
+  }
+  #facebook.nano>div.nano-content>div.profile-card>div.profile-header-inner>a.profile-picture {
+      margin: 100px auto 6px;
+      display: block;
+      width: 73px;
+      height: 73px;
+      border: 4px solid #fff;
+      background-color: #fff;
+      border-radius: 5px;
+      border-radius: 50%;
+      -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.25);
+      box-shadow: 0 1px 1px rgba(0,0,0,.25);
+      position: absolute;
+  }
+
+  #facebook.nano>div.nano-content>div.profile-card>div.profile-header-inner {
+      background-position: center;
+      background-size: 300px 161px;
+      background-color: #444;
+      height: 160px;
+      padding: 0;
+      text-align: left;
+      overflow: hidden;
+      background-repeat: no-repeat;
+      -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+      box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+  }
+
+  #facebook.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner {
+      width: 90%;
+      text-shadow: 0 1px 1px rgba(0,0,0,.5);
+      display: inline;
+      margin: 124px 90px 0px;
+      float: left;
+      position: relative;
+      color: #21759b;
+  }
+
+  #facebook.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>h1.fullname {
+      font-size: 16px;
+      white-space: nowrap;
+      line-height: 0px;
+  }
+
+  #facebook.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>p.location-and-url{
+      margin-top: 3px;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._head {
+      vertical-align: top;
+      display: block;
+      margin-left: 10px;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._head>a{
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: bold;
+      text-decoration: none; 
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._head>a:hover {
+      text-decoration: underline;
+  }
+
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div>a.uiLinkSubtle {
+      color: rgb(137, 145, 156);
+      line-height: 20px;
+      font-weight: normal;
+      font-size: 10px;
+      display: block;
+      text-decoration: none;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element {
+      background-color: rgb(255, 255, 255);
+      margin: 5px;
+      border: 1px solid rgb(211, 214, 219);
+      border-radius:5px;
+      color: black;
+      
+      display: block;
+      min-height: 50px;
+  }
+
+  #facebook.nano>div.nano-content>div.menu>div._70k {
+      clear: right;
+      padding-left: 82px;
+      width: 100%;
+      background: #ffffff;
+  }
+
+  #facebook.nano>div.nano-content>div.menu>div._70k>div._6_7 {
+      border-left: 1px solid rgb(233, 234, 237);
+      border-width: 0px 1px;
+      color: rgb(55, 64, 78);
+  }
+  #kiiball_slidebar_title {
+      background-color: black;
+      position: fixed;
+      padding: 3px 0px;
+      top: 0;
+      left: 0px;
+      cursor: pointer;
+      font-size: 35px;
+      width: 300px;
+      color: white;
+      display: none;
+      
+  }
+
+  ._6-6:hover {
+      background: none repeat scroll 0% 0% rgb(246, 247, 248);
+      text-decoration: none;
+  }
+
+  ._6-7:hover {
+      background: none repeat scroll 0% 0% rgb(255, 255, 255);
+      cursor: default;
+  }
+  #facebook.nano>div.nano-content>div.menu>div._70k>div>a._6-6 {
+      text-decoration: none;
+      border-right: 1px solid rgb(233, 234, 237);
+      color: rgb(0, 5, 136);
+      float: left;
+      font-size: 10px;
+      font-weight: bold;
+      height: 25px;
+      line-height: 3.3;
+      padding: 9px 5px;
+      position: relative;
+      vertical-align: middle;
+      white-space: nowrap;
+  }
+
+  #facebook.nano>div.nano-content>div.menu {
+      background: #ffffff;
+      width: 100%;
+      height: 43px;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>a._img{
+      position: relative;
+      float: left;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>a._img>img{
+      margin-right: 10px;
+      border: 1px solid rgb(211, 214, 219);
+      border-radius:5px;
+      border-radius:50%;
+  }
+
+
+  textarea{
+      background-color: transparent;
+      border: 0px none;
+      margin: 5px;
+      -moz-box-sizing: border-box;
+      outline: 0px none;
+      width: 100%;
+      resize: none;
+  }
+
+  .uiScaledImageCentered {
+      background-color: rgb(242, 242, 242);
+      text-align: center;
+  }
+  .uiScaledImageContainer {
+      position: relative;
+      overflow: hidden;
+      margin: 10px;
+      padding: 10px;
+      border-color: rgb(233, 234, 237);
+      border: 1px solid rgb(230, 230, 230);
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div.message{
+      display:block; 
+      margin:10px;
+      font-size: 13px;
+      font-style: justify;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._42ef a{
+      text-decoration: none;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._42ef {
+      background-color: rgb(242,242,242);
+      overflow: hidden;
+      padding: 15px;
+      border-color: rgb(233, 234, 237);
+      border: 1px solid rgb(230, 230, 230);
+      margin: 10px;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._42ef>a>div>div.uiAttachmentTitle {
+      color: rgb(59, 89, 152);
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._42ef>a>div>div.uiAttachmentDesc{
+      padding: 3px 0px;
+      font-size: 10px;
+      color: rgb(75,75,75);
+      text-align: justify;
+  }
+  #facebook.nano>div.nano-content>div.feed>div._element>div>div._42ef>a>div>div.uiAttachmentTitle>span.caption {
+  color: rgb(201, 201, 201);
+  }
+
+  #facebook.nano>div.nano-content>div.feed>div._element>table.uiInfoTable {
+      table-layout: fixed;
+      border: 0px none;
+      border-collapse: collapse;
+      border-spacing: 0px;
+      width: 90%;
+       margin: 10px 22px 20px;
+      word-wrap: normal;
+      color: rgb(137, 145, 156);
+      font-weight: normal;
+  } 
+
+  #facebook.nano>div.nano-content>div.feed>div._element>table.uiInfoTable th.label {
+      width: 67px;
+      padding-right: 10px;
+      padding-bottom: 4px;
+      padding-top: 4px;
+      line-height: 15px;
+      text-align: left;
+      vertical-align: top;
+      word-wrap: break-word;
+      color: rgb(102, 102, 102);
+      font-weight: bold;
+  }
+
+  #facebook.nano>div.nano-content>div.feed>div._element>table.uiInfoTable .data{
+      vertical-align: top;
+      line-height: 15px;
+      padding: 3px 0px 1px;
+      text-align: left;
+      vertical-align: top;
+      padding-right: 15px;
+  }
+
+  #facebook.nano>div.nano-content>div.feed>div._element>table.uiInfoTable td, .uiInfoTable  th.data, .uiInfoTable  th.label {
+      text-align: left;
+      font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+      font-size: 11px;
+  }
+
+  div#facebook.nano > div.nano-content > div.feed > div._element > div > div._42ef > a > div > div.uiAttachmentTitle>strong{
+      font-size: 10px;
+  }
+
+  div#facebook.nano > div.nano-content > div.feed > div._element > div._ids {
+  width: 96.5%;
+  padding: 5px;
+  background-color: rgb(246, 247, 248);
+  border-top-color: rgb(233, 234, 237);
+  border-top: 1px solid rgb(230, 230, 230);
+  border-radius: 0px 0px 5px 5px;
+  }
+  a.view_details {
+    background: #eceef5;
+    -webkit-border-radius: 3px;
+    border: 1px solid #cad4e7;
+    cursor: pointer;
+    padding: 0px 9px;
+    white-space: nowrap;
+    color: #3b5998;
+    text-decoration: none;
+  }
+
+  div#facebook.nano > div.nano-content > div.feed > div._element > div > div._42ef > a > div.attachmentText> span.caption{
+      font-size: 11px;
+      color: rgb(150,150,150);
+      text-align: justify;
+  }
+/* ESTILO PARA FACEBOOK */
+
+/* ESTILO PARA FLICKR */
+
+  div#flickr.nano{
+    background-color: #f3f5f6;
+  }
+  div#flickr.nano > div.nano-content>.profile_info{
+    background-color:#ff0084; 
+    padding:10px;
+  }
+
+  div#flickr.nano>div.nano-content>.profile_info a{
+    text-decoration: none;
+    color: white;
+  }
+
+  div#flickr.nano>div.nano-content>.profile_info a.full_name{
+    font-size: 20px;
+  }
+
+  div#flickr.nano>div.nano-content>ul.feed,
+  div#flickr.nano>div.nano-content>ul.feed>li>ul.tags{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  div#flickr.nano>div.nano-content>ul.feed>li{
+    background-color: #fafafa;
+    margin-bottom: 20px;
+    box-shadow: 0px 3px 4px rgba(0,0,0,0.3);
+    margin: 10px;
+    max-width: 280px;
+    overflow: hidden;
+  }
+        
+  div#flickr.nano>div.nano-content>ul.feed>li>img{
+    margin: 0px;  
+  }
+        
+  div#flickr.nano>div.nano-content>ul.feed>li>ul.tags{
+    float: left;
+    padding: 6px 9px;
+  }
+  div#flickr.nano>div.nano-content>ul.feed>li>ul.tags>li{
+    background-color: rgb(235, 235, 235);
+    color: rgb(173, 173, 173);
+    font-size: 13px;
+    float: left;
+    padding: 3px 5px;
+    margin: 2px 1px;
+    border-radius: 3px;
+  }
+        
+  div#flickr.nano>div.nano-content>ul.feed{
+    color: gray;
+  }
+/* ESTILO PARA FLICKR */
+
+/* ESTILO PARA INSTAGRAM */
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed{
+    background-color: #F4F4F4;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li{
+      background-color: #fafafa;
+      margin-bottom: 20px;
+      box-shadow: 0px 1px 8px rgba(0,0,0,0.3);
+      margin: 10px;
+      max-width: 280px;
+      overflow: hidden;
+  }
+
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.comments>li{
+      float: left;
+      opacity: .3;
+      -webkit-transition: all .8s ease;
+        -moz-transition: all .8s ease-in-out;
+        -o-transition: all .8s ease-in-out;
+        -ms-transition: all .8s ease-in-out;
+        transition: all .8s ease-in-out;
+  }
+
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>div.profile_info>img.profile_picture{
+    margin: 3px;
+    margin-bottom: 10px;
+    float: left;
+  }
+
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>div.profile_info{
+    height: 55px;
+    margin-bottom: 5px;
+  }
+
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>div.profile_info>div.username{
+    padding: 0px 10px;
+    color: rgb(146, 146, 146);
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>div.profile_info>div.full_name{
+    color: blue;
+    font-weight: bold;
+    padding: 5px 10px;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.comments>li:hover{
+    opacity: 1;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.comments>li>img{
+    float: left;
+    margin: 3px;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.likes,#instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.comments{
+    clear: both;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.likes>li{
+    width: 100%;
+    clear: both;
+    border-top: 1px solid rgb(240, 240, 240);
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.likes>li>span{
+    float: left;
+    margin: 5px;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.likes>li>img{
+    float: left;
+    padding: 3px;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.tags{
+    margin: 10px;
+  }
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.tags>li{
+    background-color: rgb(221, 221, 221);
+    float: left;
+    padding: 2px 3px;
+    margin: 2px 1px;
+  }
+
+  #instagram.nano>div.nano-content>div.feed>ul.photofeed>li>ul.likes>li>span>div.user_name{
+  color: red;
+  }
+
+  /* PROFILE URL */
+  #instagram.nano>div.nano-content>div.profile-card>div.profile-header-inner {
+    background-position: center;
+    background-size: 100%;
+    background-color: #c0c0c0;
+    height: 70px;
+    padding: 0;
+    text-align: left;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+  }
+
+  #instagram.nano>div.nano-content>div.profile-card>div.profile-header-inner>a.profile-picture {
+    margin: 6px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border: 4px solid #fff;
+    background-color: #fff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.25);
+    box-shadow: 0 1px 1px rgba(0,0,0,.25);
+    position: absolute;
+  }
+
+  #instagram.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner {
+    width: 90%;
+    text-shadow: 0 1px 1px rgba(0,0,0,.5);
+    display: inline;
+    margin: 32px 73px 0px; /*rgb(255, 184, 56)*/
+    float: left;
+    position: relative;
+  }
+
+  #instagram.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>h1.fullname {
+    font-size: 16px;
+    white-space: nowrap;
+    line-height: 0px;
+    padding-bottom: 10px;
+  }
+
+  #instagram.nano>div.nano-content>div.profile-card>div.profile-header-inner>div.profile-card-inner>h1.fullname>span.profile-field {
+    color: rgb(80, 80, 80);
+    text-shadow: 0px 0px;
+  }
+
+  #instagram.nano {
+    background-color: rgb(226, 226, 226);
+  }
+/* ESTILO PARA INSTAGRAM */
+
+/* ESTILO PARA YOUTUBE */
+  #youtube{
+    background-color: rgb(243, 243, 243);
+  }
+
+  #youtube.nano>div.nano-content>ul{
+    margin: 0;
+    padding: 0;
+  }
+  #youtube.nano>div.nano-content>ul>li.video-thumb{
+    background: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(223, 6, 6);
+    -moz-box-shadow: 2px 2px 5px rgb(209, 209, 209);
+    -webkit-box-shadow: 2px 2px 5px rgb(209, 209, 209);
+    box-shadow: 2px 2px 5px rgb(150, 150, 150);
+    color: rgb(156, 156, 156);
+    padding: 0px;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+
+  #youtube.nano>div.nano-content>ul>li.video-thumb>div.description{
+    bottom: 0px;
+    font-size: 16px;
+    position: relative;
+    margin: 10px;
+    z-index: 10;
+  }
+        
+  #youtube.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner {
+    background-position: center;
+    background-color: #444;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    height: 161px;
+    margin-bottom: 6px;
+    overflow: hidden;
+    padding: 0;
+    text-align: center;
+    width: 300px;
+  }
+
+  div#youtube.nano > div.nano-content > ul > li.video-thumb > div.profile-header-inner > a.profile-picture {
+    background-color: rgb(199, 19, 19);
+    border-radius: 50%;
+    display: block;
+    float: none;
+    height: 71px;
+    margin: 42px auto 6px;
+    position: relative;
+    opacity: 0.6;
+    width: 71px;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+  }
+
+  div#youtube.nano > div.nano-content > ul > li:hover.video-thumb > div.profile-header-inner > a.profile-picture {
+    opacity: .8;
+    -webkit-transform:scale(1.2);
+    transform:scale(1.2);
+  }
+
+  #youtube.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner {
+    color: white;
+    float: none;
+    margin: auto;
+    position: relative;
+    text-shadow: 0 1px 1px rgba(0,0,0,.5);
+    width: 90%;
+  }
+
+  #youtube.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner>h1.fullname {
+    font-size: 20px;
+    white-space: nowrap;
+  }
+
+  div#youtube.nano > div.nano-content > div.video-thumb > div.profile-header-inner > div.video-thumb-inner > h1.fullname > a.profile-field {
+    color: white;
+    text-decoration: none;
+  }
+
+  #youtube.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner>h2.username>a.screen-name {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 1px;
+    text-decoration: none;
+  }
+
+
+  #youtube.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner>p.location-and-url>a {
+    text-decoration: none;
+    color: #DFDFDF;
+  }
+
+  div#youtube.nano > div.nano-content > ul > li:hover.video-thumb > div.profile-header-inner>div.yt_shadow{
+    opacity: 0;
+  }
+
+  .yt_shadow {
+    background: -moz-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.7) 90%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,transparent),color-stop(90%,rgba(0, 0, 0, 0.7)));
+    background: -webkit-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.7) 90%);
+    background: -o-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.7) 90%);
+    background: -ms-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.7) 90%);
+    background: linear-gradient(to bottom,transparent 0,rgba(0, 0, 0, 0.7) 90%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#66000000',GradientType=0);
+    height: 161px;
+    position: absolute;
+    -webkit-transition: all .8s ease;
+    -moz-transition: all .8s ease-in-out;
+    -o-transition: all .8s ease-in-out;
+    -ms-transition: all .8s ease-in-out;
+    transition: all .8s ease-in-out;
+    width: 300px;
+  }
+
+  #youtube.nano>div.nano-content>ul>li..video-thumb>span{
+    background-color: white;
+    background: white;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+  }
+
+  .profile-header-inner {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #444;
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    height: 82px;
+    overflow: hidden;
+    padding: 0;
+    text-align: left;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+  }
+
+  .profile-picture {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 4px solid #fff;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.25);
+    box-shadow: 0 1px 1px rgba(0,0,0,.25);
+    display: block;
+    height: 73px;
+    margin: 38px auto 6px;
+    position: absolute;
+    width: 73px;
+  }
+
+  .profile-card-inner {
+    display: inline;
+    float: left;
+    margin: 55px 90px 0px;
+    position: relative;
+    text-shadow: 0 1px 1px rgba(0,0,0,.5);
+    width: 90%;
+  }
+
+  .fullname {
+    font-size: 16px;
+    line-height: 0px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+  }
+
+  .profile-card-inner {
+    text-shadow: 0 1px 1px rgba(0,0,0,.5);
+  }
+
+  .menu {
+    background: #ffffff;
+    height: 43px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+
+  ._70k {
+    background: #ffffff;
+    clear: right;
+    padding-left: 82px;
+    width: 100%;
+  }
+
+  ._6_7 {
+    border-left: 1px solid rgb(233, 234, 237);
+  }
+
+  ._6-6 {
+    border-right: 1px solid rgb(233, 234, 237);
+    font-size: 10px;
+    font-weight: bold;
+    float: left;
+    height: 25px;
+    line-height: 1.3;
+    padding: 9px 5px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    }
+    .profile-header-inner-overlay {
+    background: -moz-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,transparent),color-stop(90%,rgba(0, 0, 0, 0.40)));
+    background: -webkit-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+    background: -o-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+    background: -ms-linear-gradient(top,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+    background: linear-gradient(to bottom,transparent 0,rgba(0, 0, 0, 0.40) 90%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#66000000',GradientType=0);
+    height: 82px;
+    position: absolute;
+    top: 0px;
+    width: 300px;
+    height: 160px;
+  }
+/* ESTILO PARA YOUTUBE */
+
+/* ESTILO PARA VIMEO */
+  div#vimeo{
+    background-color: #e6e6e6;
+  }
+
+  div#vimeo.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  div#vimeo.nano>div.nano-content>ul>li{
+    box-shadow: 2px 2px 5px rgb(151, 151, 151);
+    background: rgb(250, 250, 250);
+    padding: 0px;
+    margin-bottom: 30px;
+    color: gray;
+    overflow: hidden;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.description>span>a {
+    color: red;
+    text-decoration: none;
+    color: gray;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.description{
+    margin: 10px;
+    font-size: 16px;
+    /*font-weight: bold;*/
+    position: relative;
+    bottom: 0px;
+    z-index: 10;
+  }
+        
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner {
+    background-position: center;
+    background-color: #444;
+    background-size:100%;
+    height: 161px;
+    width: 300px;
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    margin-bottom: 6px;
+  }
+
+  div#vimeo.nano > div.nano-content > ul > li.video-thumb > div.profile-header-inner > a.profile-picture {
+    float: none;
+    position: relative;
+    margin: 42px auto 6px;
+    display: block;
+    width: 71px;
+    height: 71px;
+    border-radius: 50%;
+    background-color: rgb(0, 133, 255);
+    opacity: 0.6;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+  }
+
+  div#vimeo.nano > div.nano-content > ul > li:hover.video-thumb > div.profile-header-inner > a.profile-picture {
+    -webkit-transform:scale(1.2);
+    transform:scale(1.2);
+    opacity: .8;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner {
+    width: 90%;
+    text-shadow: 0 1px 1px rgba(0,0,0,.5);
+    margin: auto;
+    float: none;
+    position: relative;
+    color: white;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner>h1.fullname {
+        font-size: 20px;
+        white-space: nowrap;
+  }
+
+  div#vimeo.nano > div.nano-content > div.video-thumb > div.profile-header-inner > div.video-thumb-inner > h1.fullname > a.profile-field {
+    color: white;
+    text-decoration: none;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner>h2.username>a.screen-name {
+    margin-bottom: 1px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>div.profile-header-inner>div.video-thumb-inner>p.location-and-url>a {
+    text-decoration: none;
+    color: #DFDFDF;
+  }
+
+  div#vimeo.nano > div.nano-content > ul > li:hover.video-thumb > div.profile-header-inner>div.yt_shadow{
+    opacity: .8;
+    opacity: .8;
+    /*background: white;*/
+  }
+  div#vimeo.nano > div.nano-content > ul > li.video-thumb > div.profile-header-inner>div.yt_shadow {
+    position: absolute;
+    width: 300px;
+    height: 161px;
+    background: -moz-linear-gradient(top,transparent 0,rgba(255, 255, 255, 1) 98%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,transparent),color-stop(98%,rgba(255, 255, 255, 1)));
+    background: -webkit-linear-gradient(top,transparent 0,rgba(255, 255, 255, 1) 98%);
+    background: -o-linear-gradient(top,transparent 0,rgba(255, 255, 255, 1) 98%);
+    background: -ms-linear-gradient(top,transparent 0,rgba(255, 255, 255, 1) 98%);
+    background: linear-gradient(to bottom,transparent 0,rgba(255, 255, 255, 1) 98%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#66000000',GradientType=0);
+    -webkit-transition: all 1.2s ease;
+    -moz-transition: all 1.2s ease-in-out;
+    -o-transition: all 1.2s ease-in-out;
+    -ms-transition: all 1.2s ease-in-out;
+    transition: all 1.2s ease-in-out;
+  }
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>span{
+    background-color: white;
+    width: 100%;
+    background: white;
+    padding: 10px;
+    position: absolute;
+  }
+
+  div#vimeo.nano>div.nano-content>ul>li.video-thumb>span>a{
+    color: red;
+  }
+/* ESTILO PARA VIMEO */
+
+/* ESTILO PARA TUMBLR */
+  #tumblr.nano>div.nano-content>ul{
+    background-color: #36465D;
+    color: #858585;
+  }
+  #tumblr.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #tumblr.nano>div.nano-content>ul>li {
+    background-color: #FFF;
+    border-bottom: 1px solid #858585;  
+    border-radius: 6px;
+    /*box-shadow: 2px 2px 2px #888;*/
+    color: #040404;
+    margin: 15px;
+    padding: 0px;
+  }
+  #tumblr.nano>div.nano-content>ul>li>span.username {
+    color: #464646;
+    display: block;
+    font-weight: bold;
+    padding: 10px 14px;
+  }
+
+  #tumblr.nano>div.nano-content>ul>li img{
+    width: 100% !important;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+  /*#tumblr.nano>div.nano-content>ul>li img{
+    margin: 10px;
+  }*/
+/* ESTILO PARA TUMBLR */
+
+/* ESTILO PARA DRIBBBLE */
+  #dribbble.nano{
+    background-color: #F4F4F4;
+  }
+  #dribbble.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #dribbble.nano>div.nano-content>ul>li{
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+    color: #aaa;
+    padding: 0;
+    margin: 0 15px 30px 15px;
+    padding: 10px;
+  }
+  #dribbble.nano>div.nano-content>ul>li>a.title{
+    color: #3a8bbb;
+    outline: none;
+    text-decoration: none;
+  }
+
+  #dribbble.nano>div.nano-content>ul>li>ul.tags>li{
+    background-color: #BBBBBB;
+  }
+/* ESTILO PARA DRIBBBLE */
+
+/* ESTILO PARA FOURSQUARE */
+  #foursquare.nano{
+    background-color: #F4F4F4;
+  }
+  #foursquare.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #foursquare.nano>div.nano-content>ul>li{
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+    color: #aaa;
+    padding: 0;
+    margin: 0 15px 30px 15px;
+    padding: 10px;
+  }
+  #foursquare.nano>div.nano-content>ul>li>a.title{
+    color: #3a8bbb;
+    outline: none;
+    text-decoration: none;
+  }
+
+  #foursquare.nano>div.nano-content>ul>li>ul.tags>li{
+    background-color: #BBBBBB;
+  }
+/* ESTILO PARA FOURSQUARE */
+
+/* ESTILO PARA DELICIOUS */
+  #delicious.nano>div.nano-content{
+    background-color: white
+  }
+  #delicious.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0 14px;
+  }
+  #delicious.nano>div.nano-content>ul>li{
+        border-top: 5px solid #0075e5;
+  }
+  #delicious.nano>div.nano-content>ul>li>a.bookmark-title{
+    color: #0a539a;
+    text-decoration: none;
+    font-size: 22px;
+
+  }
+  #delicious.nano>div.nano-content>ul>li>p.description, 
+  #delicious.nano>div.nano-content>ul>li>p.publish-date-legend {
+    color: #868484;
+  }
+  #delicious.nano>div.nano-content>ul>li>ul.tags>li {
+    /*float: left;*/
+    margin: 3px;
+  }
+  #delicious.nano>div.nano-content>ul>li>ul.tags>li>a {
+    color: #0076e8;
+  }
+
+/* ESTILO PARA DELICIOUS */
+
+/* ESTILO PARA DEVIANTART */
+  #deviantart.nano > div.nano-content{
+    background-color: #D4DFD0
+  }
+
+  #deviantart.nano > div.nano-content>ul{
+    padding: 0;
+    margin: 10px;
+  }
+  #deviantart.nano > div.nano-content>ul>li{
+    background-color: #DAE4D9;
+    border: 1px solid #a6b2a6;
+    border-radius: 10px;
+    margin-top: 11px;
+    padding: 0px 12px 10px 10px;
+  }
+  #deviantart.nano > div.nano-content>ul>li>div.title{
+    background: #e6ede4;
+    border-bottom: 1px solid #a6b2a6;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 5px 15px;
+  }
+  #deviantart.nano > div.nano-content>ul>li>div.title>a{
+    color: #2c3635;
+    text-decoration: none;
+  }
+/* ESTILO PARA DEVIANTART */
+
+/* ESTILO PARA PINTEREST */
+  #pinterest.nano{
+    background-color: #E9E9E9;
+  }
+  #pinterest.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #pinterest.nano>div.nano-content>ul>li{
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px gray;
+    color: #333;
+    padding: 0;
+    margin: 0 15px 30px 15px;
+  }
+  #pinterest.nano>div.nano-content>ul>li>p{
+    padding: 0 0 10px 0;
+    margin: 0;
+  }
+  #pinterest.nano>div.nano-content>ul>li>p.content{
+    padding: 10px;
+  }
+  #pinterest.nano>div.nano-content>ul>li>p>a>img{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 100% !important;
+  }
+  #pinterest.nano>div.nano-content>ul>li>p>span.title{
+    clear: both;
+    color: #444;
+    font-size: 14px;
+    font-weight: bold;
+    max-height: 68px;
+    padding: 4px 0;
+  }
+  #pinterest.nano>div.nano-content>ul>li>p>span.pub-date, #pinterest.nano>div.nano-content>ul>li>p>span.author{
+    color: #b0b0b0;
+  }
+  
+/* ESTILO PARA PINTEREST */
+
+
+/* ESTILO PARA VINE */
+  #vine.nano{
+    background-color: #F6F5F6;
+  }
+  #vine.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #vine.nano>div.nano-content>ul>li{
+    background: #fff;
+    /*border-radius: 2px;*/
+    /*box-shadow: 0 1px 2px rgba(0,0,0,0.07);*/
+    color: #aaa;
+    padding: 0;
+    margin: 0 15px 30px 15px;
+    padding: 10px;
+  }
+  #vine.nano>div.nano-content>ul>li>img.avatar-url{
+    border-radius: 50%;
+    height: 38px;
+    width: 38px;
+  }
+  
+  #vine.nano>div.nano-content>ul>li>a.loop-description{
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.015em;
+    line-height: 28px;
+    text-decoration: none;
+    color: #464646;
+  }
+
+  /*#vine.nano>div.nano-content>ul>li>a.title{
+    color: #3a8bbb;
+    outline: none;
+    text-decoration: none;
+  }*/
+
+  /*#vine.nano>div.nano-content>ul>li>ul.tags>li{
+    background-color: #BBBBBB;
+  }*/
+/* ESTILO PARA VINE */
+
+/* ESTILO PARA STUMBLEUPON */
+  #stumbleupon.nano{
+    background-color: #F1F2F3;
+  }
+  #stumbleupon.nano>div.nano-content>ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  #stumbleupon.nano>div.nano-content>ul>li{
+    background: #fff;
+    border-radius: 8px;
+    /*box-shadow: 0 1px 2px rgba(0,0,0,0.07);*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: #aaa;
+    padding: 0;
+    margin: 0 15px 30px 15px;
+    padding: 0px;
+  }
+  #stumbleupon.nano>div.nano-content>ul>li>img{
+    border-radius: 8px 8px 0px 0px;
+  }
+  #stumbleupon.nano>div.nano-content>ul>li>a{
+    color: #3c3c3c;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+  /*#stumbleupon.nano>div.nano-content>ul>li>a.title{
+    color: #3a8bbb;
+    outline: none;
+    text-decoration: none;
+  }*/
+
+  /*#stumbleupon.nano>div.nano-content>ul>li>ul.tags>li{
+    background-color: #BBBBBB;
+  }*/
+/* ESTILO PARA STUMBLEUPON */
+
+/*  BUTTON ANIMATIONS */
+
+  .animated{-webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-ms-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:1s;-moz-animation-duration:1s;-ms-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s;}.animated.hinge{-webkit-animation-duration:2s;-moz-animation-duration:2s;-ms-animation-duration:2s;-o-animation-duration:2s;animation-duration:2s;}@-webkit-keyframes kbl-gira {
+    0% {-webkit-transform: scale(1);} 10%, 20% {-webkit-transform: scale(0.9) rotate(-5deg);}
+    30%, 50%, 70%, 90% {-webkit-transform: scale(1.3) rotate(5deg);}
+    40%, 60%, 80% {-webkit-transform: scale(1.3) rotate(-5deg);}
+    100% {-webkit-transform: scale(1) rotate(0);}
+  }
+
+  @-moz-keyframes kbl-gira {
+    0% {-moz-transform: scale(1);}  
+    10%, 20% {-moz-transform: scale(0.9) rotate(-5deg);}
+    30%, 50%, 70%, 90% {-moz-transform: scale(1.3) rotate(5deg);}
+    40%, 60%, 80% {-moz-transform: scale(1.3) rotate(-5deg);}
+    100% {-moz-transform: scale(1) rotate(0);}
+  }
+
+  @-o-keyframes kbl-gira {
+    0% {-o-transform: scale(1);}  
+    10%, 20% {-o-transform: scale(0.9) rotate(-5deg);}
+    30%, 50%, 70%, 90% {-o-transform: scale(1.3) rotate(5deg);}
+    40%, 60%, 80% {-o-transform: scale(1.3) rotate(-5deg);}
+    100% {-o-transform: scale(1) rotate(0);}
+  }
+
+  @keyframes kbl-gira {
+    0% {transform: scale(1);} 
+    10%, 20% {transform: scale(0.9) rotate(-5deg);}
+    30%, 50%, 70%, 90% {transform: scale(1.3) rotate(5deg);}
+    40%, 60%, 80% {transform: scale(1.3) rotate(-5deg);}
+    100% {transform: scale(1) rotate(0);}
+  }
+
+  .kbl-gira {
+    -webkit-animation-name: kbl-gira;
+    -moz-animation-name: kbl-gira;
+    -o-animation-name: kbl-gira;
+    animation-name: kbl-gira;
+  }
+
+/** initial setup **/
+  .nano {
+    position : relative;
+    width    : 100%;
+    height   : 100%;
+    overflow : hidden;
+  }
+  .nano > .nano-content {
+    position      : absolute;
+    overflow      : scroll;
+    overflow-x    : hidden;
+    top           : 0;
+    right         : 0;
+    bottom        : 0;
+    left          : 0;
+  }
+  .nano > .nano-content:focus {
+    outline: thin dotted;
+  }
+  .nano > .nano-content::-webkit-scrollbar {
+    display: none;
+  }
+  .has-scrollbar > .nano-content::-webkit-scrollbar {
+    display: block;
+  }
+  .nano > .nano-pane {
+    background : rgba(0,0,0,.25);
+    position   : absolute;
+    width      : 10px;
+    right      : 0;
+    top        : 0;
+    bottom     : 0;
+    visibility : hidden\9; /* Target only IE7 and IE8 with this hack */
+    opacity    : .01;
+    -webkit-transition    : .2s;
+    -moz-transition       : .2s;
+    -o-transition         : .2s;
+    transition            : .2s;
+    -moz-border-radius    : 5px;
+    -webkit-border-radius : 5px;
+    border-radius         : 5px;
+  }
+  .nano > .nano-pane > .nano-slider {
+    background: #444;
+    background: rgba(0,0,0,.5);
+    position              : relative;
+    margin                : 0 1px;
+    -moz-border-radius    : 3px;
+    -webkit-border-radius : 3px;
+    border-radius         : 3px;
+  }
+  .nano:hover > .nano-pane, .nano-pane.active, .nano-pane.flashed {
+    visibility : visible\9; /* Target only IE7 and IE8 with this hack */
+    opacity    : 0.99;
+  }

@@ -1,0 +1,2472 @@
+{
+ "kind": "plus#activityFeed",
+ "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/DF748wYZmPBi4zCpowvF5t0OBd0\"",
+ "title": "Google+ List of Activities for Collection PUBLIC",
+ "updated": "2013-03-18T00:42:48.835Z",
+ "items": [
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/X5u7uYctl8pRbxGf9RwJrymbCRE\"",
+   "title": "",
+   "published": "2013-03-18T00:42:48.835Z",
+   "updated": "2013-03-18T00:42:48.835Z",
+   "id": "z13pjfayouerel0l4231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/72RPpp4mgQ9",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/72RPpp4mgQ9",
+    "replies": {
+     "totalItems": 2,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13pjfayouerel0l4231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13pjfayouerel0l4231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13pjfayouerel0l4231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "video",
+      "displayName": "How It Feels [through Glass]",
+      "content": "Want to see how Glass actually feels? It's surprisingly simple. Say \"take a picture\" to take a picture. Record what you see, hands free. Even share what you ...",
+      "url": "http://www.youtube.com/watch?v=v1uyQZNg2vE",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/TlQL-K_1RUYKgq3T5DS3G9bA1_4mpf58TgiPHeTEEeVP4W6FTMhK0j0_RPKxA2qU4abnkmpIc1ezFllW3v4T_N3ImH0=w506-h284-n",
+       "type": "image/jpeg",
+       "height": 284,
+       "width": 506
+      },
+      "embed": {
+       "url": "http://www.youtube.com/v/v1uyQZNg2vE?autohide=1&version=3",
+       "type": "application/x-shockwave-flash"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/J2MR8Ph_QzcYlRiCGJSb22DeBv4\"",
+   "title": "Comprelo, comprelo!",
+   "published": "2013-03-03T19:01:39.746Z",
+   "updated": "2013-03-03T19:01:39.746Z",
+   "id": "z13sdbijqxurzj5iy04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/eALk3wRA2YX",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Comprelo, comprelo!\ufeff",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/eALk3wRA2YX",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13sdbijqxurzj5iy04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13sdbijqxurzj5iy04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13sdbijqxurzj5iy04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Top Stories - Most Viewed / Commented Posts Widget",
+      "content": "Show most commented or viewed posts in your blog with this WordPress Widget, inspired in “Top Stories Sidebar” by Engadget. get unlimited sidebar combinations with these features : + Customize color t...",
+      "url": "http://codecanyon.net/item/top-stories-most-viewed-commented-posts-widget/4076959",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/r_k-03AjqbacUepUQMOUeuEqtPeHbeznfMJXlGzZxsq-7wkVlgfO6_BkscfZVPHpDPxTW1MmHx1wLqFuMxA6CgNy7XdXAfx4ucqUnqiEuEVZnuhEzA-ijcKOi00Bw-zx_BjKbVTYQeBgAIU=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://1.s3.envato.com/files/48721548/inline-preview-Most-Viewed-Commented-Posts-Widget.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/wISw_wQ_lEjVb_Qj420wRVfHu5I\"",
+   "title": "¡Buena suerte!",
+   "published": "2013-02-15T16:54:14.127Z",
+   "updated": "2013-02-15T16:54:14.127Z",
+   "id": "z12kxnryvsblsvk2v231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/GJg2DZQVswE",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "¡Buena suerte!\ufeff",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/GJg2DZQVswE",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kxnryvsblsvk2v231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 3,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kxnryvsblsvk2v231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kxnryvsblsvk2v231ur24rznwfb3xk04/people/resharers"
+    }
+   },
+   "provider": {
+    "title": ""
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/U5qhVRcCaowFFB3BIQz5x99ivfM\"",
+   "title": "",
+   "published": "2013-01-17T21:36:30.081Z",
+   "updated": "2013-01-17T21:36:30.081Z",
+   "id": "z12evhmbznrvetaem231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/EkRbeiBiCov",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/EkRbeiBiCov",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12evhmbznrvetaem231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12evhmbznrvetaem231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12evhmbznrvetaem231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Google App Engine — Google Developers",
+      "content": "Offers users the ability to build and host web applications on Google's infrastructure.",
+      "url": "https://developers.google.com/appengine/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/-E6ukxe6Fx6YEEEgc3CZffxYnur-eoZiGuNRVWtr6i6I0S1X-kmxNG_rW6P48jq1_yB17gKr25v1BNmMQwi3p6p8Y7to55wXgQ=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "https://developers.google.com/appengine/images/slide1.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/0nY-cKem-tvZ6MFJ0T16Iojk5hk\"",
+   "title": "",
+   "published": "2013-01-08T14:12:02.968Z",
+   "updated": "2013-01-08T14:12:02.968Z",
+   "id": "z13dzvrphozddxy2s231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/Fspkb5nFvDg",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/Fspkb5nFvDg",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13dzvrphozddxy2s231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 1,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13dzvrphozddxy2s231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13dzvrphozddxy2s231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "JavaScript: Operaciones y Funciones Matematicas Basicas | Artistas Digitales",
+      "content": "Te mostramos las funciones mas basicas para realizar funciones matematicas dentro de JavaScript. Suma, resta, Multiplicacion, Division, PI, Raiz, Redondear",
+      "url": "http://artistasdigitales.com/javascript-operaciones-y-funciones-matematicas-basicas/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/C8g1IdYtl79wIIpuOcH2ePeTgNrtIz-TSgCpoUv43nCDB7mEqEJzrky7SFA6MvMPHP3vln9LAuGXXeDZ4jURmAiP7L1AeBS96W9RSs1hE5h3RmB9Dn12iTUuDCTBEakx-tqaFnUNEGJMyxqZhExueA=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/11/03Firebug-extensiones-desarrollo-web.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/gcIPg8p5dTJ6YDAQ2nTY-OorroQ\"",
+   "title": "",
+   "published": "2012-12-26T18:59:49.251Z",
+   "updated": "2012-12-26T18:59:49.251Z",
+   "id": "z120u3wrlwemjxiwc04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/PpvB9MZRYNc",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/PpvB9MZRYNc",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z120u3wrlwemjxiwc04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z120u3wrlwemjxiwc04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z120u3wrlwemjxiwc04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "10 pasos para ser mas productivo | Artistas Digitales",
+      "content": "Te damos 10 pasos para ser mas productivo en tus tareas diarias. Consejos de como ser mas productivo y herramientas para llegar a la productividad.",
+      "url": "http://artistasdigitales.com/10-pasos-para-ser-mas-productivo/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/39mjuLuHC9mEgkGkSHBB4XbKRmCnjU3QfR0HWetKZlCGJUf0X3aPv_oICvzvqjvsq1MCw5fdFB13S3aVvq4tExPpEBG1aP6qtcOr2VlOHfpnCHG8PE_T3kC1Qk3DaPTEoOyme8BTFSSWdvpw=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/12/10-pasos-para-ser-mas-productivo.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/0f3Qx7Mzs95FGU8pZTeOcH-NDVE\"",
+   "title": "",
+   "published": "2012-11-10T20:32:34.067Z",
+   "updated": "2012-11-10T20:32:34.067Z",
+   "id": "z122gxracwrkebzn1231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/HPbMfWiNv5q",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/HPbMfWiNv5q",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122gxracwrkebzn1231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122gxracwrkebzn1231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122gxracwrkebzn1231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Top 10 de herramientas para crear sitios web responsivos | Artistas Digitales",
+      "content": "Recopilamos 10 de las mejores herraminetas para crear Formularios, Sliders, Tablas, Galerias, Menus de Navegacion y Rejillas para Sitios web Responsivos.",
+      "url": "http://artistasdigitales.com/top-10-de-herramientas-plugins-para-crear-sitios-web-responsivos/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/acI4QVv654tPVyxeIE2pezUU0ArwcJ17C5sBeWn9L6wEMmKLhWi9jRfauDI7go5uVuMp_HC_BuxHzXEaDcPwFO2Y25EvOGBvOP9M9C6isQnUBSEBFcYlEouY3rp2w7SxOT6lxHFwNz09Lg=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/11/plugins-sitios-web-responsivos.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/i17be4euX5pFDStyt2CVY7u5JDY\"",
+   "title": "",
+   "published": "2012-11-08T19:26:17.341Z",
+   "updated": "2012-11-08T19:26:17.341Z",
+   "id": "z13hzbxg3vi2uvqzf04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/gRieT4znYJn",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/gRieT4znYJn",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hzbxg3vi2uvqzf04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hzbxg3vi2uvqzf04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hzbxg3vi2uvqzf04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Extensiones para desarrollo web en Firefox | Artistas Digitales",
+      "content": "Compilacion de las 15 Extensiones Mas poderosas en Cuestion de Desarrollo Web, dentro de firefox. Utiles para HTML, CSS, Debugg, JS y edicion en ejecucion.",
+      "url": "http://artistasdigitales.com/extensiones-para-desarrollo-web-en-firefox/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/syFQ2i4-QBtoccnDBTBwdKHqvyiqSHkMaReBocQr_cvJmha3t_PrKDmBq4vo7aqZIIYQr8eUho31kAd9kS_wy96TvpFbqsKdHH32pcWm_rPBUwKOdGOrS5qlyWP32DlL4y6u8stX12rhRs5Sq3LvJCOG7Hac1ohCoV3jydY=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/11/extensiones-firefox-desarrollo-web-e1352399856433.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/NSOLsTfj0S4iNVqXVfv7V5jmoxs\"",
+   "title": "",
+   "published": "2012-10-31T16:40:37.246Z",
+   "updated": "2012-10-31T16:40:37.246Z",
+   "id": "z13xd5iznoncwpv1l231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/9LbH95ZL7Yd",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/9LbH95ZL7Yd",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xd5iznoncwpv1l231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xd5iznoncwpv1l231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xd5iznoncwpv1l231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "8 de los mejores frameworks para crear sitios web responsivos | Artistas Digitales",
+      "content": "Compilamos los mejores Frameworks CSS para crear Sitios Web Responsivos, Compatibles con cualquier Dispositivo y Resolución. Ideales para diseños fluidos o adaptativos.",
+      "url": "http://artistasdigitales.com/los-mejores-frameworks-para-crear-sitios-web-responsivos/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/qeemOyzDF2ZE0E_iIpUJpqMwOY5cyEtjPFyAn6Fped8gPJlKJt29_YQIBW5pV8h57--v4QfOf4SKUVaPBhq1l3IGroJR_DgQfG08cTYkg-jLKvy4lP2h7R52I8SfH3pSA3kgwUSpTBIzkdW2UA=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/10/frameworks-sitios-web-responsivos.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/ZTJx7RkYM7dwJdClL610hCuBRyY\"",
+   "title": "",
+   "published": "2012-10-30T19:23:31.597Z",
+   "updated": "2012-10-30T19:23:31.597Z",
+   "id": "z13nd1qqrm3bct4k2231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/1MmuSpJvHF3",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/1MmuSpJvHF3",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13nd1qqrm3bct4k2231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13nd1qqrm3bct4k2231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13nd1qqrm3bct4k2231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Tips para crear comercios en linea (e-commerce) | Artistas Digitales",
+      "content": "El comercio electrónico o (e-commerce) es un campo muy competitivo. Si al comprador no le gusta tu sitio el simplemente abandonara tu web en busca de otro",
+      "url": "http://artistasdigitales.com/tips-para-crear-comercios-en-linea-e-commerce/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/v_nCyJtyaXLl0Ivv0ecT_ng_hsWtPzA2HGmdIisqFNXU4Y5wc3ZAtvgWHfWVcjLUXQdEOHmb-R-c7uCMwqVnHxYIkPhuXFL6TiEtdvwAgpQnfrqYwjs0O4Ks_iRodavJG7Q9nD2dA0kd=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/10/consejos-comercio-electronico.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/VT38o0koV0hssVE6kIj6X5uRUU0\"",
+   "title": "",
+   "published": "2012-10-19T19:23:16.233Z",
+   "updated": "2012-10-19T19:23:16.233Z",
+   "id": "z13lyjay2qmzdrgwf04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/QKMdhbebFcW",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/QKMdhbebFcW",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lyjay2qmzdrgwf04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lyjay2qmzdrgwf04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lyjay2qmzdrgwf04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Inspiracion: Diseños creativos para cuartos | Artistas Digitales",
+      "content": "Hicimos una recopilacion de 33 de los cuartos mas asombrosos que hayas visto en tu vida. Ideales para inspiracion y si andas en busca de algo nuevo e inovador",
+      "url": "http://artistasdigitales.com/inspiracion-disenos-creativos-para-cuartos-recamaras/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/b0oNvmmLIFesoKG_IMz1KSJdjMTV-sGwDruRsAP517z_p0ozrAiZTHuHQVh3XhUMBUoEOQygHbHde0n2QQwC0s4uXIyo4LUNpM_gHY2cqIVscpVS3B4-i3sFc58z0bJa7p2bnDsbvlhL30QlRg=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/10/12-cuartos-asombrosos-inspiracion.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/WngMLJGuMP6j-11dmhtIKX4aovs\"",
+   "title": "",
+   "published": "2012-10-17T15:46:42.021Z",
+   "updated": "2012-10-17T15:46:42.021Z",
+   "id": "z12chzv4aniuyvl35231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/Hz3chcH3iPZ",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/Hz3chcH3iPZ",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12chzv4aniuyvl35231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12chzv4aniuyvl35231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12chzv4aniuyvl35231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Aprende a organizar mejores reuniones de trabajo | Artistas Digitales",
+      "content": "Te decimos como organizar juntas de trabajo o negocios mas productivas, mediante consejos sencillos y ejemplos reales.",
+      "url": "http://artistasdigitales.com/aprende-a-organizar-reuniones-de-trabajo-productiva/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/Vp4aRtkfM_yVqo7AMhaWvy-_vRIgpTjiaZP4BvR3dIlZWv4ZGzfmuVCjikd05Q781jbJVWNgRZgX5nZ4LBNKjB0hHnKZXThQhrIdQYiQQE7_HkiFEHirhEogRtF9jhVB3SxgYvPauTswMtGda2Nb=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/10/preview-organizar-juntas-de-trabajo.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/WrRnrffRmmZNRsiDzyX1zlKzsak\"",
+   "title": "",
+   "published": "2012-10-16T22:40:36.511Z",
+   "updated": "2012-10-16T22:40:36.511Z",
+   "id": "z12qfn0hmtnai3zf0231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/HDrQsYkAUsM",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/HDrQsYkAUsM",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qfn0hmtnai3zf0231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qfn0hmtnai3zf0231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12qfn0hmtnai3zf0231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Extensiones de Chrome para Diseñadores Web Mas Productivos | Artistas Digitales",
+      "content": "Compilamos algunas de las extensiones de google chrome mas poderosas para aumentar la productividad y el proceso creativo en el desarrollo de sitios web.",
+      "url": "http://artistasdigitales.com/extensiones-de-chrome-para-disenadores-web-productivos/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/w4_XYdTtcDWEuujp_pXbqyjBMDwFTZN7WXBkuCPlJoc-hhKJqrnDC0A1qhskB0nlM8SPuiPkeKIToKOZMKbM3wjjHi3gpPQetZYfvBFY9o_GtiGLMCN5cYszLxLKkBoKH9nBKfhpIDhXxcPZaw=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/10/preview-extensiones-productividad.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/agInn_4b9RTPhxac3qsAt03LSVc\"",
+   "title": "",
+   "published": "2012-09-28T17:55:48.453Z",
+   "updated": "2012-09-28T17:55:48.453Z",
+   "id": "z12xcjpzbt2ydbzsx231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/61yTFCYHMEh",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/61yTFCYHMEh",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xcjpzbt2ydbzsx231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xcjpzbt2ydbzsx231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xcjpzbt2ydbzsx231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "30+ Kits super utiles para diseñar interfaces Web y Moviles | Artistas Digitales",
+      "content": "Reunimos 30 de los mejores kits para el diseño y modelado de interfaces moviles y web, listos para descargar y totalmente gratis. Incluye iOS, Android, Web, Mapas, Apps entre otros.",
+      "url": "http://artistasdigitales.com/30-ui-kits-super-utiles-para-desarrollo-de-interfaces-web-moviles-gratis/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/WYlHqyZllqiYlrGzsI3f8sL86_pReeK9WIg_ojV0xdcjqh9f8MeR8JCkpGBibxm4GIPHQDw7z4ruIal5RFkr1W0CaPm2oM7h2n8dYp5UpZmkCapN1y4GqVFD4pRxdVXlW3TOsNZeB90ii4aQ2kk=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/09/preview-ui-kits-para-moviles-y-web.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/sYj6jomFyd1BAGYofcmxFYJaoSs\"",
+   "title": "",
+   "published": "2012-09-19T15:24:59.133Z",
+   "updated": "2012-09-19T15:24:59.133Z",
+   "id": "z121u3yimqzridids231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/ASehU2DZNQz",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/ASehU2DZNQz",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z121u3yimqzridids231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z121u3yimqzridids231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z121u3yimqzridids231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Recursos: Coleccion de Fuentes Manuscritas | Artistas Digitales",
+      "content": "Te presentamos las mejores fuentes con estilo manuscrito de la web. Una compilacion con estilos genericos ideales para cualquier proyecto.",
+      "url": "http://artistasdigitales.com/coleccion-de-fuentes-manuscritas-gratis/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/XkIu3-HWYzY081IfKUxw1N6McRen7L8x9zw0KXN9zq-GlaNaLi0uqTxkviEUdPaEkc3LbC2Xnnzwe_Q9l78-HK8NZJRwqVJJtandzOofYPVfnIqUBXChwqREUDZ267i4KE4AZzGTDxqMWiF1Y5v8Vgkx7WDnn3HX=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/09/preview-coleccion-fuentes-manuscritas-gratis.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/O7vjunlSUekXmvZ0vuRWRolHgww\"",
+   "title": "",
+   "published": "2012-09-18T02:43:00.446Z",
+   "updated": "2012-09-18T02:43:00.446Z",
+   "id": "z12kxxwjmzqkjrt3f231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/K2go7JiZwuJ",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/K2go7JiZwuJ",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kxxwjmzqkjrt3f231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kxxwjmzqkjrt3f231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12kxxwjmzqkjrt3f231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Inspiración: 50 Logos de empresas | Artistas Digitales",
+      "content": "Te presentamos una coleccion de 50 iconos de diferentes estilos y empresas. El comun denominador, el buen diseño, ideales para la inspiracion de tus futuros proyectos!",
+      "url": "http://artistasdigitales.com/inspiracion-50-logos-de-empresas-muy-inspiradores-creativos/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/1ywl27Xa_MCwdFu0Rk68xCI0BsCzEDCwDZh976PbG82UDr_BArWGTg08wLw1Fymb9q__Hxr_VanaW5WDd91j_qFg-8VYBzwkGm89RL0AO9H_z-JgcQeLwJTcBcAtBiOQfvc=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/09/21-logos-inspiradores1.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/g6O3mR9Np_JbbTosD5fJMEtAX_I\"",
+   "title": "",
+   "published": "2012-09-17T18:41:10.962Z",
+   "updated": "2012-09-17T18:41:10.962Z",
+   "id": "z12awn3wtrmgwtclz231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/BaoTLFP1Hwr",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/BaoTLFP1Hwr",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12awn3wtrmgwtclz231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12awn3wtrmgwtclz231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12awn3wtrmgwtclz231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "México: Semana Nacional de Educación Financiera 2012 | Artistas Digitales",
+      "content": "Te invitamos a la semana nacional de educacion financiera desde el 7 de octubre organizado por el gobierno para las PyMES, Obtencion de creditos e Inversiones.",
+      "url": "http://artistasdigitales.com/semana-nacional-de-educacion-financiera-2012/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/DDGa0O7mvPbJ3KVWCGRBQLpcMjH2Ao6aHCFkmj-TBHivYTdVW0nueQ14TR1DAZg5s-ikT7WqIadqG03_BjjGcMGJjS8tfNbIuMDpg_JowkyeVLU=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/09/SEF2012.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/UrvPTXO1HeZk92WJzXZePtiCgG8\"",
+   "title": "",
+   "published": "2012-09-16T18:23:49.242Z",
+   "updated": "2012-09-16T18:23:49.242Z",
+   "id": "z133cvabvlaqcd220231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/BiVNEVJSvhB",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/BiVNEVJSvhB",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z133cvabvlaqcd220231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z133cvabvlaqcd220231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z133cvabvlaqcd220231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Inspiración: Top 10 en diseño de interiores con planisferios | Artistas Digitales",
+      "content": "Top 10 de las mejores decoraciones con Planisferios y mapas. Ideal para inspiracion y rediseño de interiores",
+      "url": "http://artistasdigitales.com/top-10-en-diseno-de-interiores-con-planisferios-mapa/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/7nsbbKCsK4B5Yr2o33DhnP-1RmXnhsIT1tN5OUStzSZhlvDbFWy_3DWv7j9Z3Pa2suq-L7tyqNuHs5WrSBIA421ntRkYUKVAPX3C3LhqVutkLdf6eTvZK6Z5oCPPWls-hkftcklA5f2ZSHxZ73A9tlcbiP7X=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/09/preview-decoracion-con-mapas-planisferios.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/CVA2Wt1itmgbsgTStPpoGqTz_bw\"",
+   "title": "",
+   "published": "2012-09-11T02:54:18.771Z",
+   "updated": "2012-09-11T02:54:18.771Z",
+   "id": "z13hetcypr2pz50jo04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/hpFT7FBLWws",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/hpFT7FBLWws",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hetcypr2pz50jo04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hetcypr2pz50jo04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hetcypr2pz50jo04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Tips: Top 10 de funciones super utiles para PHP | Artistas Digitales",
+      "content": "Te entregamos de forma resumida 10 de las funciones mas utiles dentro de PHP. Con ejemplos de como y cuando utilizarlas!",
+      "url": "http://artistasdigitales.com/tips-top-10-de-funciones-super-utiles-para-php/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/dBCcL83mgPOBgWnxG8YOLerFgnOriS8a8Wb9wymRUk52FBa-UzqJ9p2iz6LsK4euNxwFEt_zWZQ2O9mi1dTSYUMLPuayi1MXRZgbdJHzaNDxTiuPdOwDLnreYxfJCURpMI7lpeHWi_IKQglz3g=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/09/preview-funciones-utiles-para-php.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/iV85OCduh-DaKl9W9LF8sDjUfus\"",
+   "title": "",
+   "published": "2012-08-28T17:22:09.747Z",
+   "updated": "2012-08-28T17:22:09.747Z",
+   "id": "z13termbrxm3glaxq04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XUib1CdCPzR",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XUib1CdCPzR",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13termbrxm3glaxq04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13termbrxm3glaxq04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13termbrxm3glaxq04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Productos creativos que comprarías solo por el diseño de su empaque | Artistas Digitales",
+      "content": "Creamos una Colección de productos que comprarías solo por el diseño del empaque. En verdad un buen Recurso para Inspiracion y Retroalimentacion en diseñadores y creativos",
+      "url": "http://artistasdigitales.com/productos-creativos-que-comprarias-solo-por-el-diseno-de-su-empaque/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/M0h4q0fvsqJwnYDUWc-H-kvEbkLqcKk_mwxcTg7DqNv2hiRCQTSOfu_MhAXp2wDKb9dSLn0TKIlG7t32qzUD3d2ZDdtEIvfrJVWnfL_mS_w8kOXver1TBbJz5bjqb57FrcCX2MHA=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/10/preview-empaques-creativos.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/yRDbJP8ecBxRqTlyyhZrF5y5310\"",
+   "title": "",
+   "published": "2012-08-24T00:10:08.359Z",
+   "updated": "2012-08-24T00:10:08.359Z",
+   "id": "z124tthqnwbhdnbno231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/LSdnf1WcoFW",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/LSdnf1WcoFW",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z124tthqnwbhdnbno231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z124tthqnwbhdnbno231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z124tthqnwbhdnbno231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Almacenamiento en la nube (Google Drive, SkyDrive, Dropbox) | Artistas Digitales",
+      "content": "Hacemos reseña de algunas de las herramientas mas utiles para almacenar datos en la nube como DrobBox, Google Drive, Microsoft SkyDrive",
+      "url": "http://artistasdigitales.com/almacenamiento-en-la-nube-google-drive-skydrive-dropbox/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/nId58XJmnnybD3HyeIVZ4afuGbB8QFhg8Dxsif6giSOd2-fZZnebYm4mkE7Cax72bHXl6HZ54-SQB0v4isDlrTcPXzq_5LA9yS3nqy1avyJSr9R1-rU0GIu5aY0Itnmi-KUY3sTOeDte-sG2nA=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/preview-almacenamiento-en-la-nube.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/eaecDk2V8V-zrDR77t-uhcnveVM\"",
+   "title": "",
+   "published": "2012-08-23T22:41:56.971Z",
+   "updated": "2012-08-23T22:41:56.971Z",
+   "id": "z12xsrkwarqnuxixz04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/Z2SRbrZxo7p",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/Z2SRbrZxo7p",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xsrkwarqnuxixz04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xsrkwarqnuxixz04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xsrkwarqnuxixz04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Almacenamiento en la nube (Google Drive, SkyDrive, Dropbox) | Artistas Digitales",
+      "content": "Hacemos reseña de algunas de las herramientas mas utiles para almacenar datos en la nube como DrobBox, Google Drive, Microsoft SkyDrive",
+      "url": "http://artistasdigitales.com/almacenamiento-en-la-nube-google-drive-skydrive-dropbox/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/nId58XJmnnybD3HyeIVZ4afuGbB8QFhg8Dxsif6giSOd2-fZZnebYm4mkE7Cax72bHXl6HZ54-SQB0v4isDlrTcPXzq_5LA9yS3nqy1avyJSr9R1-rU0GIu5aY0Itnmi-KUY3sTOeDte-sG2nA=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/preview-almacenamiento-en-la-nube.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/WQEdeTjlK9cfOnKX0neWnXvS-X8\"",
+   "title": "",
+   "published": "2012-08-19T14:34:52.475Z",
+   "updated": "2012-08-19T14:34:52.475Z",
+   "id": "z12fvvsonqj1t5hwv04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/SzsfvDXEmD8",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/SzsfvDXEmD8",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12fvvsonqj1t5hwv04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12fvvsonqj1t5hwv04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12fvvsonqj1t5hwv04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Cuna para adultos | Artistas Digitales",
+      "content": "Presentamos una cuna para adultos con un diseño increíble y único en su estilo. Construida con materiales orgánicos para personas que deseen relajarse.",
+      "url": "http://artistasdigitales.com/cuna-para-adultos/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/Rh3ukmmuXGzUoCZvLzzrOMv6bJMDXgX8p6sQ6-gW3ka7gbq_rDMshcPzK-WcYFWxjfywcwMyKKgeFyTIsg0bPHCQoX3nTJASkOMtQZfOVD52YM1pATPbZyJneE5gpyMfKyAg6Nj3LMSoFSSdJm2wwpOs=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/preview-cuna-adultos-diseno-industrial.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/mt531kY8x4j3P8Nq91Hs1zt40xU\"",
+   "title": "",
+   "published": "2012-08-17T15:56:38.773Z",
+   "updated": "2012-08-17T15:56:38.773Z",
+   "id": "z13qtrioiurft332z231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/GuYG5hJrSrQ",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/GuYG5hJrSrQ",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13qtrioiurft332z231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13qtrioiurft332z231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13qtrioiurft332z231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "30 consejos basicos en SEO | Artistas Digitales",
+      "content": "Guia con mas de 30 consejos basicos en SEO, para mejorar el Rendimiento. Hablamos de que hacer con Sitemaps, Backlinks, dominios, URLs, Tags Meta, Flash, imagenes entro otros.",
+      "url": "http://artistasdigitales.com/30-consejos-basicos-en-seo/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/qJxyiPvMyV0Y7xcFKYQ4ZImOVw2v72PehAaV_a2QtxjQ35DbCOW7tBFXEm5Kpg8Q99MVhU9Y4Uyl9tDvI8DR5u_1ehKUfxHq0cjSYVzWYssw2UmGXhc6n-9lqkJf6MT-twf0cL0=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/preview-guia-consejos-seo.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/STlSCQeFXCcYvAjS3tg8TfpP2R4\"",
+   "title": "Pase por aqui para conocer lo nuevo en CSS3!",
+   "published": "2012-08-15T03:10:37.711Z",
+   "updated": "2012-08-15T03:10:37.711Z",
+   "id": "z13xyh1ojwjue1ak4231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/1ho7bpWGWiN",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Pase por aqui para conocer lo nuevo en CSS3!\ufeff",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/1ho7bpWGWiN",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xyh1ojwjue1ak4231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xyh1ojwjue1ak4231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13xyh1ojwjue1ak4231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Introducción a las Nuevas Funcionalidades en CSS3 | Artistas Digitales",
+      "content": "Te enseñamos lo nuevo en CSS3 como crear Animaciones, Trasnparencias, Esquinas Redondeadas, Tooltips, Columnas, Patrones, Texto 3D, Transformadas y mas cualidades!",
+      "url": "http://artistasdigitales.com/introduccion-a-las-nuevas-funcionalidades-en-css3/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/oqKoPX8hx9_hRqpe1sURZRIZUrt1yq8YGXryCX4a_-mKFWNC7tCaI2B3mo6b_OTFieuMGhzGfgbSC33UPrZcZp90UsukeEmN0daohWs71a_6yeTLlSAWUMna71zTJCsSCLEr=w120-h120",
+       "type": "image/jpeg",
+       "height": 120,
+       "width": 120
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/cabecera_novedades_css3.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/pqir9n8Gn5S14vyz-3EXOp9p25Y\"",
+   "title": "",
+   "published": "2012-08-06T03:04:20.556Z",
+   "updated": "2012-08-06T03:04:20.556Z",
+   "id": "z12zsxk5slmqebe5r04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XfP9Pg1RYht",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XfP9Pg1RYht",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zsxk5slmqebe5r04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zsxk5slmqebe5r04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12zsxk5slmqebe5r04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "25 empaques de productos con diseño increible | Artistas Digitales",
+      "content": "Colección de Productos, con Empaque atractivo Colorido y con un Diseño Excepcional.",
+      "url": "http://artistasdigitales.com/25-empaques-de-productos-con-un-diseno-increible/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/YFiYsmHKwtAGJIjkSSENekZnOWZkn9kas4paVNSHCw_INM_XbPr12W1dKTv6MwOmokrzA8eZfRRdXTVkamk7p2ulkr9kK2khKknWHjlm8lfxQj2MrJfalZHVeQ9FNw=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/preview-empaques-creativos.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/858CIENX5bC8taPx4A2l0kRinLo\"",
+   "title": "",
+   "published": "2012-08-06T01:57:21.109Z",
+   "updated": "2012-08-06T01:57:21.109Z",
+   "id": "z13fcbqjtqnbf5fov04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/SzDDBRhfcus",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/SzDDBRhfcus",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13fcbqjtqnbf5fov04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13fcbqjtqnbf5fov04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13fcbqjtqnbf5fov04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Top 5 de herramientas para experimentar con CSS3 | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Top5 de herramientas para Explorar y Aprender las nuevas Funcionalidades de CSS3 (animaciones 2d, 3d, crear botones, generar patriones) totalmente en linea.",
+      "url": "http://artistasdigitales.com/top-5-de-herramientas-para-experimentar-con-css3/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/yb1VN_8j3xqjTqz0qvQAE7PqkBv6AJtH0TbsIo529326QBUVYzZgdob3Y8RZIL_XylwUttwv3GY9QOLY6w0ndYQCKfnftaPgAtnnHz7X4S_8n1xKRy-51P8_PVaKRA=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/08/preview-herramientas-CSS3.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/uqiInq3ofEsy_nAlLGXntql4piM\"",
+   "title": "",
+   "published": "2012-07-30T19:00:02.102Z",
+   "updated": "2012-07-30T19:00:02.102Z",
+   "id": "z122ffty1oukg3jbf04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/gPP4uh6r3k7",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/gPP4uh6r3k7",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122ffty1oukg3jbf04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122ffty1oukg3jbf04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z122ffty1oukg3jbf04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "¿Que macs pueden correr mountain lion? | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Listado de requerimientos minimos, precios y modelos compatibles con Mountain Lion, MAC OS X 10.8. Como verificar mi version y si esta puede actualizarse.",
+      "url": "http://artistasdigitales.com/que-macs-pueden-correr-mountain-lion/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/20fFnrs0g4cMxZK4a4ye6nDi1e0tMpN9-y4Irr5h250iSq6a_JC-5ufxCKzTFxDOJ3dUwmzhtjBG1WFOeMtEAJn1chb_5KU7IwiSSuByCqTojw=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/actualizar-tu-mac-lion-10-8.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/kpFIwvuyam2MG4WaWsOdGPuKXOg\"",
+   "title": "",
+   "published": "2012-07-27T18:22:18.230Z",
+   "updated": "2012-07-27T18:22:18.230Z",
+   "id": "z12petghvun3spfmr231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/FcW6TGfV1qj",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/FcW6TGfV1qj",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12petghvun3spfmr231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12petghvun3spfmr231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12petghvun3spfmr231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "nendo + elecom : mouse inalambrico | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Mouse inalambrico con un diseño creativo de animales los modelos incluyen zorro, perro, delfín, el gato, el cerdo, la ardilla, camaleón, y el conejo.",
+      "url": "http://artistasdigitales.com/nendo-elecom-mouse-inalambrico/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/DxpCzsJOR0MYqoMR-n0dUJNlJrG3_7nAPYu2XPxdUqClruzpPUK5oPLXj9yeMgAGBNkRjQG5E4XV-30-RTkr2Z1tGEhewCpU9XOEjA=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/oppet-mouse-preview.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/ylsnqCE82wW7pa7MMD3tRnmjprE\"",
+   "title": "",
+   "published": "2012-07-27T03:46:27.310Z",
+   "updated": "2012-07-27T03:46:27.310Z",
+   "id": "z13twlh5lxz4xz35t04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XxhUVB56EkS",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XxhUVB56EkS",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13twlh5lxz4xz35t04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13twlh5lxz4xz35t04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13twlh5lxz4xz35t04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Los mejores frameworks para crear aplicaciones web moviles [parte 1] | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Resumen de los principales frameworks utilizados para crear aplicaciones web moviles con HTML y ejemplos de jquery mobile, jqtouch, sensaTouch, wink, xui",
+      "url": "http://artistasdigitales.com/los-mejores-frameworks-para-crear-aplicaciones-web-moviles-parte-1/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/VS2U25b1I0PVuE2l5feNHvOlyiyuY_tcV3jjgsR1GF41rJBhHvb1_FgG2YPIB7zW-6qP1MlW360KAZzshN9UcPCeA0g6IFtkSzXHSewrE-15Fcqr0F3xbMCM0XKrsZkRJ1GrhoEZpKun3Obxn19tyg=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/frameworks-aplicaciones-web.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/6aPR4TElSWJBb4ELua0FnF3XbJ4\"",
+   "title": "",
+   "published": "2012-07-26T22:03:04.016Z",
+   "updated": "2012-07-26T22:03:04.016Z",
+   "id": "z12rf32geqazf10vx231ur24rznwfb3xk04",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/MuuwCqKKDFb",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/MuuwCqKKDFb",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12rf32geqazf10vx231ur24rznwfb3xk04/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12rf32geqazf10vx231ur24rznwfb3xk04/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12rf32geqazf10vx231ur24rznwfb3xk04/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Colección de fuentes vintage totalmente gratis | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Colección de fuentes con estilo vintage y retro, listas para descargar totalmente gratis.",
+      "url": "http://artistasdigitales.com/coleccion-de-fuentes-vintage-totalmente-gratis/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/0u5pb23aHTrDSWSiSPtaES_S49rKI338PTpYSSoFBAzR_-LwJ1-9NiZDUe2FFAMl4f7FvGNfENFfPX-wxp7t3xuxLfi_zlHpOBF35rkbinHDECeZXGOoeQ-Q8as=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/fuentes_retro.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/JPJBep5unWGTbdlXTZ-o1sQ4uOA\"",
+   "title": "",
+   "published": "2012-07-26T22:02:38.492Z",
+   "updated": "2012-07-26T22:02:38.492Z",
+   "id": "z12dunvjjsrhud1yx04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/dyXgwG49uGE",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/dyXgwG49uGE",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12dunvjjsrhud1yx04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12dunvjjsrhud1yx04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z12dunvjjsrhud1yx04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Como crear un cartel desde cero en fireworks | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Este articulo muestra como crear un cartel desde cero, utilizando herramientas y componentes basicos de fireworks",
+      "url": "http://artistasdigitales.com/como-crear-un-cartel-desde-cero-en-fireworks/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/WtMpTnP-CLPrGgk5hp2L1fRtsyeUN5-qducb-UJdBqrE5R1-gXYRyRQBmqWYaai4YjMZsYvt_LtjgmKBbbu2VH_g8ZbcLiOmROXkXgy_Er8tDYr0BQtelQq1=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/crear-Cartel-Fireworks.png",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/XXa9yCTgzU_jOZWASChUi4C8Bgs\"",
+   "title": "",
+   "published": "2012-07-24T03:18:42.584Z",
+   "updated": "2012-07-24T03:18:42.584Z",
+   "id": "z13lj3chfovugdggz04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/TfFiZbf94ch",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/TfFiZbf94ch",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lj3chfovugdggz04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lj3chfovugdggz04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13lj3chfovugdggz04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Colección de fuentes vintage totalmente gratis | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Colección de fuentes con estilo vintage y retro, listas para descargar totalmente gratis.",
+      "url": "http://artistasdigitales.com/coleccion-de-fuentes-vintage-totalmente-gratis/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/0u5pb23aHTrDSWSiSPtaES_S49rKI338PTpYSSoFBAzR_-LwJ1-9NiZDUe2FFAMl4f7FvGNfENFfPX-wxp7t3xuxLfi_zlHpOBF35rkbinHDECeZXGOoeQ-Q8as=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/fuentes_retro.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "plus#activity",
+   "etag": "\"xw0en60W6-NurXn4VBU-CMjSPEw/_9cf5qI1-1qPELPTYSiE8WrPZMY\"",
+   "title": "Genial",
+   "published": "2012-07-24T01:43:55.251Z",
+   "updated": "2012-07-24T01:43:55.251Z",
+   "id": "z13hurjxpwyedbl5q04cgbewcmzyjlgwjq00k",
+   "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XXo147mD5Aa",
+   "actor": {
+    "id": "108993345500421220863",
+    "displayName": "Daniel Gutierrez",
+    "url": "https://plus.google.com/108993345500421220863",
+    "image": {
+     "url": "https://lh3.googleusercontent.com/-CT1dNGXof3Q/AAAAAAAAAAI/AAAAAAAAEq8/03CAhuy0iuw/photo.jpg?sz=50"
+    },
+    "verification": {
+     "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+    }
+   },
+   "verb": "post",
+   "object": {
+    "objectType": "note",
+    "actor": {
+     "verification": {
+      "adHocVerified": "UNKNOWN_VERIFICATION_STATUS"
+     }
+    },
+    "content": "Genial\ufeff",
+    "url": "https://plus.google.com/+Daniel-Gutierrez-dagtok/posts/XXo147mD5Aa",
+    "replies": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hurjxpwyedbl5q04cgbewcmzyjlgwjq00k/comments"
+    },
+    "plusoners": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hurjxpwyedbl5q04cgbewcmzyjlgwjq00k/people/plusoners"
+    },
+    "resharers": {
+     "totalItems": 0,
+     "selfLink": "https://www.googleapis.com/plus/v1/activities/z13hurjxpwyedbl5q04cgbewcmzyjlgwjq00k/people/resharers"
+    },
+    "attachments": [
+     {
+      "objectType": "article",
+      "displayName": "Historial de logos olimpicos [1932-2012] | Artistas Digitales | La mejor informarse y aprender habilidades creativas o técnicas",
+      "content": "Recopilacion de logos de los juegos olimpicos, desde 1932 hasta 2012.",
+      "url": "http://artistasdigitales.com/historial-de-logos-olimpicos-1932-2012/",
+      "image": {
+       "url": "https://lh3.googleusercontent.com/proxy/s7wJF473X7ESDjEBvY0PifT2ScRwafQCZbp2TOcOENoYe4jVaWGxEc3y5Nci8DYe3sqaMcR7xJuewYX66kuA1pJDZq1JYXz658j31HqjZjt-Oyl5=w506-h910",
+       "type": "image/jpeg",
+       "height": 910,
+       "width": 506
+      },
+      "fullImage": {
+       "url": "http://artistasdigitales.com/wp-content/uploads/2012/07/historico-juegos-olimpicos-logos.jpg",
+       "type": "image/jpeg"
+      }
+     }
+    ]
+   },
+   "provider": {
+    "title": "Google+"
+   },
+   "access": {
+    "kind": "plus#acl",
+    "description": "Public",
+    "items": [
+     {
+      "type": "public"
+     }
+    ]
+   }
+  }
+ ]
+}
